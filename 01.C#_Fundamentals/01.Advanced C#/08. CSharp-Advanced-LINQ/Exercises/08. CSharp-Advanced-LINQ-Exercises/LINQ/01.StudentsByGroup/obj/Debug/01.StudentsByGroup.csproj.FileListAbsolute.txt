@@ -1,0 +1,6 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\bin\Debug\01.StudentsByGroup.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.csprojResolveAssemblyReference.cache
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\01.StudentsByGroup\obj\Debug\01.StudentsByGroup.pdb

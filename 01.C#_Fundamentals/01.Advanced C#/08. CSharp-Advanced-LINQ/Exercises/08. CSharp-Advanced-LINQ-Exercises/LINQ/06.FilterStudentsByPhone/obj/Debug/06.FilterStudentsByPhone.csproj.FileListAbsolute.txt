@@ -1,0 +1,6 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.csprojResolveAssemblyReference.cache
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\bin\Debug\06.FilterStudentsByPhone.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\06.FilterStudentsByPhone\obj\Debug\06.FilterStudentsByPhone.pdb

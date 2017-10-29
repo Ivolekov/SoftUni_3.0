@@ -1,0 +1,6 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\bin\Debug\10.GroupByGroup.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.csprojResolveAssemblyReference.cache
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\10.GroupByGroup\obj\Debug\10.GroupByGroup.pdb

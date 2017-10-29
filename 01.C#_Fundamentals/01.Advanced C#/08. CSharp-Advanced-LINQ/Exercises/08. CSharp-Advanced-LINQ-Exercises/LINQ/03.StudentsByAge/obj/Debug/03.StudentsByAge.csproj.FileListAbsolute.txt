@@ -1,0 +1,5 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\03.StudentsByAge\bin\Debug\03.StudentsByAge.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\03.StudentsByAge\obj\Debug\03.StudentsByAge.pdb

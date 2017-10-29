@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam.StartUp" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Hardware" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAEAAAABAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Hardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Software" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Component">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Power">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Power.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Heavy">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heavy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Express">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Express.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Light">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Light.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam.Analyze">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Analyze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

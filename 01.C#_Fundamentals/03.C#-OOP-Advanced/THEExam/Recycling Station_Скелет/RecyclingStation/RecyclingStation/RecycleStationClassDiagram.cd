@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RecyclingStation.Attributes.InjectAttribute" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\InjectAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Core.CommandInterpreter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAEAAACAAAAAAEBAAAAAQAAA=</HashCode>
+      <FileName>Core\CommandInterpreter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.Core.Engine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.Core.Commands.Command" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RecyclingStation.Core.Commands.ProcessGarbage" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Core\Commands\ProcessGarbage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Core.Factories.GarbageFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Factories\GarbageFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.Models.GarbageDisposalStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GarbageDisposalStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.Models.ProcessingData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProcessingData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.Models.Strategies.BurnableStrategy" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAEAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Strategies\BurnableStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Models.Strategies.RecyclableStrategy" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAEAAAAAAEAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Models\Strategies\RecyclableStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Models.Strategies.StorableStrategy" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAEAAAAAAEAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Strategies\StorableStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Models.Strategies.Strategy" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAEAAAAAAAAEAAAABAAAAAAAAQAAA=</HashCode>
+      <FileName>Models\Strategies\Strategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RecyclingStation.Models.Wastes.Burnable" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Wastes\Burnable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Models.Wastes.Garbage" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAACAFBAAgAQQAAAAAAAA=</HashCode>
+      <FileName>Models\Wastes\Garbage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RecyclingStation.Models.Wastes.Recyclable" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Wastes\Recyclable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.Models.Wastes.Storable" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Wastes\Storable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.RecyclingStationMain" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>RecyclingStationMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.WasteDisposal.Attributes.DisposableAttribute" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Attributes\DisposableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecyclingStation.WasteDisposal.GarbageProcessor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\GarbageProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RecyclingStation.WasteDisposal.StrategyHolder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAQAAAAAAAACAAAIAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\StrategyHolder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="RecyclingStation.Interfaces.ICommandInterpreter" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICommandInterpreter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.Interfaces.IExecutable" Collapsed="true">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IExecutable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.Interfaces.IGarbage" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGarbage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.Interfaces.IGarbageFactory" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGarbageFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.Interfaces.IRunnable" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\IRunnable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.Interfaces.IStrategy" Collapsed="true">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAEAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.WasteDisposal.Interfaces.IGarbageDisposalStrategy" Collapsed="true">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Interfaces\IGarbageDisposalStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.WasteDisposal.Interfaces.IGarbageProcessor" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Interfaces\IGarbageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.WasteDisposal.Interfaces.IProcessingData" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Interfaces\IProcessingData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.WasteDisposal.Interfaces.IStrategyHolder" Collapsed="true">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAQAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Interfaces\IStrategyHolder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RecyclingStation.WasteDisposal.Interfaces.IWaste" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>WasteDisposal\Interfaces\IWaste.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RecyclingStation.Enumerations.StrategyType" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAA=</HashCode>
+      <FileName>Enumerations\StrategyType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

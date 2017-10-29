@@ -1,0 +1,6 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\bin\Debug\02.JadiGalaxy.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\bin\Debug\02.JadiGalaxy.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\bin\Debug\02.JadiGalaxy.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\obj\Debug\02.JadiGalaxy.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\obj\Debug\02.JadiGalaxy.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\02.JadiGalaxy\obj\Debug\02.JadiGalaxy.csprojResolveAssemblyReference.cache

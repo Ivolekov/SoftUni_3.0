@@ -1,0 +1,7 @@
+E:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\bin\Debug\03.CustomMinFunction.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.csprojResolveAssemblyReference.cache
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\07. CSharp-Advanced-Functional-Programming\Exercises\FunctionalProgramming\03.CustomMinFunction\obj\Debug\03.CustomMinFunction.pdb

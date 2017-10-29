@@ -1,0 +1,5 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\02.StudentsByFirstAndLastName\bin\Debug\02.StudentsByFirstAndLastName.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\08. CSharp-Advanced-LINQ\Exercises\08. CSharp-Advanced-LINQ-Exercises\LINQ\02.StudentsByFirstAndLastName\obj\Debug\02.StudentsByFirstAndLastName.pdb

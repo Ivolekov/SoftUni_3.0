@@ -1,0 +1,6 @@
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\bin\Debug\04.JediDreams.exe.config
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\bin\Debug\04.JediDreams.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\bin\Debug\04.JediDreams.pdb
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\obj\Debug\04.JediDreams.csprojResolveAssemblyReference.cache
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\obj\Debug\04.JediDreams.exe
+D:\MyPrograms\SoftUni_3.0\Advanced C#\01.JediMeditation\04.JediDreams\obj\Debug\04.JediDreams.pdb
