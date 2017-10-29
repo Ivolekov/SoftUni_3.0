@@ -1,0 +1,28 @@
+﻿@model CarDealer.Models.BindingModels.EditCustomerBindingModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form  method="post">
+    <input type="number" value="@Model.Id" name="Id" hidden="hidden"/>
+    <div class="input-group">
+        <span class="input-group-addon">Name</span>
+        <input type="text" class="form-control" name="Name" value=@Model.Name />
+    </div>
+    <br />
+    <div class="input-group">
+        <label for="BirthDate" class="input-group-addon">Birthday</label>
+        <input type="date" class="form-control" name="BirthDate" value="@Model.BirthDate.ToString("yyyy-MM-dd")" />
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Add Customer" class="btn btn-success" />
+        <input type="reset" value="Reset" class="btn btn-danger" />
+    </div>
+</form>
+<div>
+    @Html.ActionLink("Back to List", "Index","customers/all/descending")
+</div>
