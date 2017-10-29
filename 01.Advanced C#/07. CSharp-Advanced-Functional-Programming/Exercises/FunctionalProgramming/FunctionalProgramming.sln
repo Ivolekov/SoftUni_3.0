@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPrint", "01.ActionPrint\01.ActionPrint.csproj", "{23F0BA62-EBB4-4A2C-AFC0-E38A573899AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsOfHonor", "02.KnightsOfHonor\02.KnightsOfHonor.csproj", "{196003E2-FA77-4762-B116-56ACFA18541B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{76AAC5FC-2D52-49E3-97A7-7C6C27B971A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F0BA62-EBB4-4A2C-AFC0-E38A573899AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F0BA62-EBB4-4A2C-AFC0-E38A573899AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F0BA62-EBB4-4A2C-AFC0-E38A573899AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F0BA62-EBB4-4A2C-AFC0-E38A573899AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196003E2-FA77-4762-B116-56ACFA18541B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196003E2-FA77-4762-B116-56ACFA18541B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196003E2-FA77-4762-B116-56ACFA18541B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196003E2-FA77-4762-B116-56ACFA18541B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AAC5FC-2D52-49E3-97A7-7C6C27B971A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AAC5FC-2D52-49E3-97A7-7C6C27B971A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AAC5FC-2D52-49E3-97A7-7C6C27B971A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AAC5FC-2D52-49E3-97A7-7C6C27B971A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
