@@ -1,0 +1,24 @@
+﻿@model LearningSystem.Models.ViewModels.Users.EditUsersViewModel
+
+@{ 
+    ViewBag.Title = "Edit Profile";
+}
+
+<h2>Edit Your Profile</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(vm => vm.Email)
+        @Html.EditorFor(vm => vm.Email, new { htmlAttbutes = new { @class = "form-control" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(vm => vm.Name)
+        @Html.EditorFor(vm => vm.Name, new { htmlAttbutes = new { @class = "form-control" } })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Edit" class="form-group" />
+    </div>
+}

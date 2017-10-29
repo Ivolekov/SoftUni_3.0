@@ -1,0 +1,14 @@
+﻿@using CarDealer.Models;
+@model Customer
+
+@{
+    ViewBag.Title = "Sales";
+}
+
+
+<h1>Customer Details</h1>
+<h2>@Model.Name</h2>
+<h2>Bought Cars Count - @Model.Sales.Count</h2>
+<h2>Total spent money - $@Model.Sales.Sum(c=>c.Car.Parts.Sum(p=>p.Price))</h2>
+
+
